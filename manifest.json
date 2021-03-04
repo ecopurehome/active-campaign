@@ -1,7 +1,7 @@
 {
   "name": "active-campaign",
   "vendor": "ecowaterqa",
-  "version": "0.0.3-beta.0",
+  "version": "0.0.4-beta.0",
   "title": "Active Campaign Tracking",
   "description": "Inserts Active Campaign tracking js.",
   "billingOptions": {
